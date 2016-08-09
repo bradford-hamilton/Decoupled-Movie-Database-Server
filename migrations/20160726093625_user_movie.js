@@ -1,4 +1,3 @@
-
 exports.up = function(knex, Promise) {
   return knex.schema.createTable('user_movie', function(table) {
     table.increments();
