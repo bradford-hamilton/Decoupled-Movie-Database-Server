@@ -1,3 +1,4 @@
-## Movie-Place App Database Api
+## Decoupled Movie-Place App Database
 
-#### [Link to Express API Server](#)
+#### [Link to API](https://github.com/bradford-hamilton/Decoupled-Movie-API)
+#### [Link to Client-Side](https://github.com/bradford-hamilton/Decoupled-Movie-Client-Side)
